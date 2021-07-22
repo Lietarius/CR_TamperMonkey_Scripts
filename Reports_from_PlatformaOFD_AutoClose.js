@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Автоматическое скачивание Отчетов из Платформа ОФД (Автозакрытие страницы)
-// @version      2
+// @version      3
 // @author       Шадрин Сергей
 // @match        https://lk.platformaofd.ru/web/noauth/cheque/*
 // @grant        window.close
-// @updateURL http://cs-ws174197:82/TamperMonkey_Scripts/Reports_from_PlatformaOFD_AutoClose.js
-// @downloadURL http://cs-ws174197:82/TamperMonkey_Scripts/Reports_from_PlatformaOFD_AutoClose.js
+// @updateURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_PlatformaOFD_AutoClose.js
+// @downloadURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_PlatformaOFD_AutoClose.js
 // ==/UserScript==
 
 (function () {

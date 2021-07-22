@@ -1,13 +1,13 @@
 ﻿// ==UserScript==
 // @name         Кнопки для ЛК ФНС
-// @version      14
+// @version      15
 // @author       Шадрин Сергей
 // @match        https://lkul.nalog.ru/kkt/
 // @match        https://lkul.nalog.ru/kkt/index
 // @match        https://lkul.nalog.ru/kkt/index/index
 // @grant        none
-// @updateURL http://cs-ws174197:82/TamperMonkey_Scripts/Buttons_LK_FNS.js
-// @downloadURL http://cs-ws174197:82/TamperMonkey_Scripts/Buttons_LK_FNS.js
+// @updateURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Buttons_LK_FNS.js
+// @downloadURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Buttons_LK_FNS.js
 // ==/UserScript==
 
 

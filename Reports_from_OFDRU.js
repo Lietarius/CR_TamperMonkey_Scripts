@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Автоматическое скачивание Отчетов из OFD.RU
-// @version      4
+// @version      5
 // @author       Шадрин Сергей
 // @match        https://lk.ofd.ru/*
 // @grant        none
-// @updateURL http://cs-ws174197:82/TamperMonkey_Scripts/Reports_from_OFDRU.js
-// @downloadURL http://cs-ws174197:82/TamperMonkey_Scripts/Reports_from_OFDRU.js
+// @updateURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_OFDRU.js
+// @downloadURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_OFDRU.js
 // ==/UserScript==
 
 

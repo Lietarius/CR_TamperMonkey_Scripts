@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Автоматическое скачивание Отчетов из Такскома
-// @version      8
+// @version      9
 // @author       Шадрин Сергей
 // @match        https://lk-ofd.taxcom.ru/
 // @match        https://lk-ofd.taxcom.ru/%23
 // @grant        none
-// @updateURL http://cs-ws174197:82/TamperMonkey_Scripts/Reports_from_Taxcom.js
-// @downloadURL http://cs-ws174197:82/TamperMonkey_Scripts/Reports_from_Taxcom.js
+// @updateURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_Taxcom.js
+// @downloadURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_Taxcom.js
 // ==/UserScript==
 
 (function () {
