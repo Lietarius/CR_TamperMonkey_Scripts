@@ -6,8 +6,8 @@
 // @match        https://lkul.nalog.ru/kkt/index
 // @match        https://lkul.nalog.ru/kkt/index/index
 // @grant        none
-// @updateURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Buttons_LK_FNS.js
-// @downloadURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Buttons_LK_FNS.js
+// @updateURL https://lietarius.github.io/CR_TamperMonkey_Scripts/Buttons_LK_FNS.js
+// @downloadURL https://lietarius.github.io/CR_TamperMonkey_Scripts/Buttons_LK_FNS.js
 // ==/UserScript==
 
 

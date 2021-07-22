@@ -4,8 +4,8 @@
 // @author       Шадрин Сергей
 // @match        https://lk.ofd.ru/*
 // @grant        none
-// @updateURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_OFDRU.js
-// @downloadURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_OFDRU.js
+// @updateURL https://lietarius.github.io/CR_TamperMonkey_Scripts/Reports_from_OFDRU.js
+// @downloadURL https://lietarius.github.io/CR_TamperMonkey_Scripts/Reports_from_OFDRU.js
 // ==/UserScript==
 
 

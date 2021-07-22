@@ -4,8 +4,8 @@
 // @author       Шадрин Сергей
 // @match        https://online.sbis.ru/
 // @grant        none
-// @updateURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_Sbis.js
-// @downloadURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_Sbis.js
+// @updateURL https://lietarius.github.io/CR_TamperMonkey_Scripts/Reports_from_Sbis.js
+// @downloadURL https://lietarius.github.io/CR_TamperMonkey_Scripts/Reports_from_Sbis.js
 // ==/UserScript==
 
 

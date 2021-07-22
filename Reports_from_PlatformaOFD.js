@@ -4,8 +4,8 @@
 // @author       Шадрин Сергей
 // @match        https://lk.platformaofd.ru/web/noauth/cheque/*
 // @grant        none
-// @updateURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_PlatformaOFD.js
-// @downloadURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_PlatformaOFD.js
+// @updateURL https://lietarius.github.io/CR_TamperMonkey_Scripts/Reports_from_PlatformaOFD.js
+// @downloadURL https://lietarius.github.io/CR_TamperMonkey_Scripts/Reports_from_PlatformaOFD.js
 // ==/UserScript==
 
 

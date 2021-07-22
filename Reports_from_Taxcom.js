@@ -5,8 +5,8 @@
 // @match        https://lk-ofd.taxcom.ru/
 // @match        https://lk-ofd.taxcom.ru/%23
 // @grant        none
-// @updateURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_Taxcom.js
-// @downloadURL https://mcmagjp.github.io/CR_TamperMonkey_Scripts/Reports_from_Taxcom.js
+// @updateURL https://lietarius.github.io/CR_TamperMonkey_Scripts/Reports_from_Taxcom.js
+// @downloadURL https://lietarius.github.io/CR_TamperMonkey_Scripts/Reports_from_Taxcom.js
 // ==/UserScript==
 
 (function () {
